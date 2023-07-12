@@ -1,5 +1,5 @@
 import java.util.*;
-public class  Main {
+public class Question3 {
     public static String addNum(String a, String b) {
         
         return String.valueOf((Integer.parseInt(a)+Integer.parseInt(b)));
